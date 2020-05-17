@@ -15,18 +15,18 @@ O MongoDB é um banco de dados No-SQL (não relacional) cuja utilização está 
 
 Neste curso você aprenderá a criar aplicações com o NodeJS e o MongoDB, aprenderá a utilizar o framework Express em conjunto com o design pattern MVC, fará uso do gerenciador de pacotes NPM e do engine de views EJS, tudo para criar aplicações profissionais. 
 
-Aprenda a utilizar os seguintes módulos:
-##Consign:  
-Para realizar autoload de módulos
-##Body-parser:  
-Para receber parâmetros de formulários trafegados em requests.
-##Express-validator:  
-Para validação de dados
-##Express-session:  
-Para criação de variáveis de sessão
-##Crypto:  
-Para criptografia de dados utilizando MD5
-##Connect-Multiparty:  
+Aprenda a utilizar os seguintes módulos:  
+## Consign:  
+Para realizar autoload de módulos  
+## Body-parser:  
+Para receber parâmetros de formulários trafegados em requests.  
+## Express-validator:  
+Para validação de dados  
+## Express-session:  
+Para criação de variáveis de sessão  
+## Crypto:  
+Para criptografia de dados utilizando MD5  
+## Connect-Multiparty:  
 Para upload de arquivos
 
 
